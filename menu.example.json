@@ -1,0 +1,22 @@
+[
+  {
+    "name": "pasta",
+    "price": 3.5
+  },
+  {
+    "name": "peperonni piza",
+    "price": 5
+  },
+  {
+    "name": "cheese pizza",
+    "price": 4.5
+  },
+  {
+    "name": "3 meat pizza",
+    "price": 5.3
+  },
+  {
+    "name": "raviolli",
+    "price": 4.2
+  }
+]
