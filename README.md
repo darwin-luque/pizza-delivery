@@ -372,6 +372,6 @@ fetch('http://localhost:5000/order' + new URLSearchParams({
 - The token should be provided through the Authentication parameter of the headers, instead of mostly as a payload of the body or, worst, query parameters.
 - There should be a worker periodically earasing delivered orders.
 
-Please keep in mind that this API was mustly, if not completely, thought from the user's perspective. For which, various capabilities were not included because they should not be allowed to users.
+Please keep in mind that this API was mostly, if not completely, thought from the user's perspective. For which, various capabilities were not included because they should not be allowed to users.
 
 *If you have any suggestions, please feel free to open an issue or create a PR*
